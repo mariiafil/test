@@ -1,7 +1,7 @@
-npm install
+npm install => 
 npm run dev
-
-yarn
+or
+yarn => 
 yarn dev
 
 https://test-a1kvozmwq.now.sh/
