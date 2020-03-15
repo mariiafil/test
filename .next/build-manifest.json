@@ -31,6 +31,10 @@
     "/new": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
+    ],
+    "/posts/[id]": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ]
   }
 }

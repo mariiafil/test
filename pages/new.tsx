@@ -62,7 +62,7 @@ const Input = styled.input`
     setTitle(e.currentTarget.value);
   };
 
-  const handleBody = (e: FormEvent<HTMLInputElement>) => {
+  const handleBody = (e: FormEvent<HTMLTextAreaElement>) => {
     setBody(e.currentTarget.value);
   };
 
