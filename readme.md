@@ -1,9 +1,9 @@
 Install it and run:
 
-npm install
+npm install => 
 npm run dev
 # or
-yarn
+yarn => 
 yarn dev
 
-https://test-a1kvozmwq.now.sh/
+DEMO https://test-a1kvozmwq.now.sh/
